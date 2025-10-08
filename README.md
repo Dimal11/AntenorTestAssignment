@@ -10,7 +10,7 @@
 
 ### 1️⃣ Клонування репозиторію
 ```bash
-  git clone https://github.com/<your-repo>/AntenorTestAssignment.git
+  git clone https://github.com/Dimal11/AntenorTestAssignment.git
   cd AntenorTestAssignment
 ```
 
